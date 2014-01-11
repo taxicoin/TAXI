@@ -2,9 +2,9 @@ Taxi - a fork of Litecoin version with random bonus blocks. Like Litecoin it use
 
    - 1 min block target
    - Difficulty retargets every 4 hrs with accelerated diff adjustment in the beginning
-   - Initially 240 coins per block, halves every 2 years (512,640 blocks)
-   - Total around 1261 millions coins
-   - connection port is 81577, RPC-port 81576
+   - Initially 88 coins per block, halves every 2 years (1,036,800 blocks)
+   - Total around 200 millions coins
+   - connection port is 9917, RPC-port 9918
 
    Random Super-blocks:
     For the 1st 50000 blocks (1st month)
